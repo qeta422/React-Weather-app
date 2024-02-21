@@ -1,5 +1,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(to bottom, #c6c7ff, #d1bbf9);
+    height: 90vh;
 }
 
 .container {
